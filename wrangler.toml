@@ -1,3 +1,5 @@
 name = "htmltoimage"
 compatibility_date = "2025-06-30"
 
+[assets]
+directory = "./test/resources"
